@@ -1,0 +1,78 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.1.0)
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AliyunOSSiOS (2.5.0)
+  - GTSDK (1.4.2)
+  - JDFlipNumberView (2.2.3):
+    - JDFlipNumberView/Core (= 2.2.3)
+    - JDFlipNumberView/DefaultImageBundle (= 2.2.3)
+    - JDFlipNumberView/FlipImageView (= 2.2.3)
+  - JDFlipNumberView/Core (2.2.3)
+  - JDFlipNumberView/DefaultImageBundle (2.2.3):
+    - JDFlipNumberView/Core
+  - JDFlipNumberView/FlipImageView (2.2.3)
+  - KVNProgress (2.2.4)
+  - MBProgressHUD (0.9.2)
+  - RongCloudIMKit (2.6.1)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SocketRocket (0.5.1)
+  - UMengAnalytics-NO-IDFA (4.0.5)
+  - UMengMessage (1.1.0.2)
+  - UMengSocial (5.0)
+  - VPImageCropper (0.0.4)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - AFNetworking (~> 2.6.3)
+  - AliyunOSSiOS
+  - GTSDK
+  - JDFlipNumberView
+  - KVNProgress
+  - MBProgressHUD
+  - RongCloudIMKit
+  - SDWebImage
+  - SocketRocket
+  - UMengAnalytics-NO-IDFA
+  - UMengMessage
+  - UMengSocial
+  - VPImageCropper
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: db66605feb85689279d328206c61f0e4f398df92
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  AliyunOSSiOS: 0c275ccd87b0b1fb82f3f8abe1aa1568a17b19d7
+  GTSDK: 51a12836895312a872f75a2fe0f2e788dee75b19
+  JDFlipNumberView: e4672404447e7240d26d22f8c850660cd44eef69
+  KVNProgress: 541edcea5a1fef592aceac8d791a410d38cb499d
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  RongCloudIMKit: 36f00d9e54ef3650da894740b636b311a7ab4f4f
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  UMengAnalytics-NO-IDFA: 965a219b05475ff2a4c09a164139a27bbaa0e25b
+  UMengMessage: 48fac77da8a71729c3d9c40eed16151d8917d9b3
+  UMengSocial: 48b67179c492a8cf7803fbb0438b8f55432e2fc1
+  VPImageCropper: f4895315460bd05fbb22dbee6b063bdd43f25797
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,9 @@
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/JDFlipNumberView/JDFlipNumberView/JDFlipNumberView.bundle
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/RongCloudIMKit/Rong_Cloud_iOS_IMKit_SDK_v2_6_1_dev/RongCloud.bundle
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/RongCloudIMKit/Rong_Cloud_iOS_IMKit_SDK_v2_6_1_dev/en.lproj
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/RongCloudIMKit/Rong_Cloud_iOS_IMKit_SDK_v2_6_1_dev/zh-Hans.lproj
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/RongCloudIMKit/Rong_Cloud_iOS_IMKit_SDK_v2_6_1_dev/Emoji.plist
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/RongCloudIMKit/Rong_Cloud_iOS_IMKit_SDK_v2_6_1_dev/RCConfig.plist
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/UMengSocial/Umeng_SDK_Social_iOS_ARM64_5.0/UMSocial_Sdk_5.0/UMSocialSDKResourcesNew.bundle
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/UMengSocial/Umeng_SDK_Social_iOS_ARM64_5.0/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenApi_IOS_Bundle.bundle
+/Users/shuhang/Desktop/iOS参考项目/4：2046/2046/Pods/UMengSocial/Umeng_SDK_Social_iOS_ARM64_5.0/UMSocial_Sdk_Extra_Frameworks/SinaSSO/WeiboSDK.bundle
